@@ -16,3 +16,4 @@ else:
     print("you failed, better luck next time")
 
 print("Your total marks: ", num7)
+print(f"You secured {num6} percentage")
